@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daktic
-- 👀 I’m interested in working in crypto
-- 🌱 I’m currently learning Solidity and Javascript
-- 💞️ I’m looking to collaborate on basica projects
+- 👀 I’m interested in working in web3
+- 🌱 I’m currently learning Back End Engineering
+- 💞️ I’m looking to collaborate on basic projects
 - 📫 How to reach me ...
 
 <!---
