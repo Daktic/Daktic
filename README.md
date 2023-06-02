@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Daktic
-- 👀 I’m interested in working in web3
-- 🌱 I’m currently learning Back End Engineering
-- 💞️ I’m looking to collaborate on basic projects
-- 📫 How to reach me ...
+## 👨‍💼 Work 
+I am a data engineer at a non-profit.
 
-<!---
-Daktic/Daktic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍🎓 School
+I am a student in a Masters of Software Engieering at Penn State.
+
+## 🛰️ Fun 
+I like to build drones, travel, and ski.
+
+## 📖 Languages 
+### In order of familiarity
+- SQL
+- JavaScript
+- Rust
+- Python
+- Java
+- Solidity
