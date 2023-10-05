@@ -10,8 +10,8 @@ I like to build drones, travel, and ski.
 ## 📖 Languages 
 ### In order of familiarity
 - SQL
-- JavaScript
 - Rust
+- JavaScript
+- Solidity
 - Python
 - Java
-- Solidity
