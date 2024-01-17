@@ -8,10 +8,9 @@ I am a student in a Masters of Software Engieering at Penn State.
 I like to build drones, travel, and ski.
 
 ## 📖 Languages 
-### In order of familiarity
-- SQL
 - Rust
-- JavaScript
-- Solidity
 - Python
+- SQL
+- JavaScript/Typescript
+- Solidity
 - Java
